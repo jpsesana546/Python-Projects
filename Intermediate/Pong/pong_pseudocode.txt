@@ -1,0 +1,10 @@
+Structure pong pseudocode.
+
+My solution:
+  0. Create the screen 
+  1. Create ball, make the ball move
+  2. Create left player, make the player move
+  3. Create right player, make the player move
+  4. Create score board on the top of the screen
+  5. Create dividing line background on the middle of the screen
+  6. Create restart button and menu
